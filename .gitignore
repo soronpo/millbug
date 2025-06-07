@@ -1,0 +1,14 @@
+out/
+.idea/
+.cache/
+.bsp/
+project/project
+project/target
+target/
+.scala-build/
+.metals/
+.bloop/
+/project/.bloop/**
+.vscode/
+project/metals.sbt
+
